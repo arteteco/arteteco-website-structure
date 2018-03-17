@@ -32,9 +32,9 @@ CC_LICENSE="CC-BY-SA"
 ### PLUGINS
 
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['i18n_subsites']
+PLUGINS = ['i18n_subsites', 'tipue_search']
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
-
+DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'search')
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
