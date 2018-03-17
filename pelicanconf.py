@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 
 
-### WEBSITE
+### GENERAL
 
 AUTHOR = u'Arteteco'
 SITENAME = u'Arteteco'
@@ -12,6 +12,20 @@ SITEURL = ''
 TIMEZONE = 'Europe/Rome'
 DEFAULT_LANG = u'en'
 RELATIVE_URLS = True
+
+# feed
+FEED_ALL_ATOM = None
+CATEGORY_FEED_ATOM = None
+TRANSLATION_FEED_ATOM = None
+AUTHOR_FEED_ATOM = None
+AUTHOR_FEED_RSS = None
+
+### PUBLISHING
+
+OUTPUT_RETENTION = [".git"]
+SLUGIFY_SOURCE = 'basename'
+DELETE_OUTPUT_DIRECTORY = False
+
 
 ## PATHS
 
@@ -39,9 +53,11 @@ SHOW_DATE_MODIFIED=True
 ### PLUGINS
 
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['i18n_subsites', 'tipue_search', 'tag_cloud']
+PLUGINS = ['i18n_subsites', 'tipue_search', 'tag_cloud','photos']
 
 # i18n_subsites
+# required by pelican-bootstrap3
+
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 
 # tipue_search
@@ -52,27 +68,23 @@ TAG_CLOUD_STEPS = 1
 TAG_CLOUD_SORTING = 'alphabetically'
 TAG_CLOUD_BADGE = True
 
+# photos
+# with translation it creates double folder, waiting to fix to activate translation
+
+PHOTO_LIBRARY = "content/galleries"
+PHOTO_GALLERY = (4096, 4096, 100)
+PHOTO_ARTICLE = (768, 768, 80)
+PHOTO_THUMB = (512, 512, 60)
+PHOTO_RESIZE_JOBS = 5
+PHOTO_EXIF_COPYRIGHT = 'CC-BY-SA'
 
 
-
-# Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
-AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = None
-
-# Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+#SOCIAL = (('You can add links in your config file', '#'),
+#          ('Another social link', '#'),)
 
-DEFAULT_PAGINATION = 10
+
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
