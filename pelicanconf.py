@@ -29,6 +29,12 @@ DISPLAY_CATEGORIES_ON_MENU=False
 HIDE_SIDEBAR=True
 CC_LICENSE="CC-BY-SA"
 
+### PLUGINS
+
+PLUGIN_PATHS = ['plugins']
+PLUGINS = ['i18n_subsites']
+JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
+
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
