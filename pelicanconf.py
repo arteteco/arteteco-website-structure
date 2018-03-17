@@ -39,12 +39,10 @@ PATH = 'content'
 ### THEME & APPARANCE
 
 THEME = 'pelican-bootstrap3'
-DISPLAY_PAGES_ON_MENU=False
+DISPLAY_PAGES_ON_MENU=True
 DISPLAY_CATEGORIES_ON_MENU=False
 HIDE_SIDEBAR=True
 CC_LICENSE="CC-BY-SA"
-MENUITEMS = (('<i class="fa fa-flask" style="font-size:18px"></i> Projects', '/pages/projects.html'),
-			 ('<i class="fa fa-pencil" style="font-size:18px"></i> Articles', '/pages/articles.html'),)
 DEFAULT_PAGINATION = 10
 SHOW_ARTICLE_AUTHOR=False
 SHOW_ARTICLE_CATEGORY=True
