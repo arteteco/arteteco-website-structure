@@ -16,7 +16,7 @@
     
    <!-- MAGNIFY -->
    
-	{% if (article and article.photo_gallery) or (articles_page and articles_page.object_list[0].photo_gallery) %}
+	{% if (article and article.photo_gallery) %}
 		<link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/magnific-popup.css">
 	{% endif %}
 
@@ -210,7 +210,7 @@
 
 
 <!-- MAGNIFY -->
-{% if (article and article.photo_gallery) or (articles_page and articles_page.object_list[0].photo_gallery) %}
+{% if (article and article.photo_gallery) %}
     <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/jquery.min.js"></script>
 
     <!-- Magnific Popup core JS file -->

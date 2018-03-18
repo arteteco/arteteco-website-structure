@@ -12,6 +12,7 @@ SITEURL = ''
 TIMEZONE = 'Europe/Rome'
 DEFAULT_LANG = u'en'
 RELATIVE_URLS = True
+AUTHORS_SAVE_AS = ''
 
 # feed
 FEED_ALL_ATOM = None
@@ -23,7 +24,6 @@ AUTHOR_FEED_RSS = None
 ### PUBLISHING
 
 OUTPUT_RETENTION = [".git"]
-SLUGIFY_SOURCE = 'basename'
 DELETE_OUTPUT_DIRECTORY = False
 
 
@@ -34,7 +34,6 @@ STATIC_PATHS = ['images']
 LOAD_CONTENT_CACHE = False
 IMAGE_PATH='content/images/'
 PAGE_PATHS = ['pages']
-PATH = 'content'
 
 ### THEME & APPARANCE
 
@@ -57,6 +56,14 @@ PLUGINS = ['i18n_subsites', 'tipue_search', 'tag_cloud','photos']
 # required by pelican-bootstrap3
 
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
+
+I18N_SUBSITES = {
+    'it': {
+        'SITENAME': 'Arteteco',
+        }
+    }
+
+
 
 # tipue_search
 DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'search')
@@ -81,8 +88,3 @@ PHOTO_EXIF_COPYRIGHT = 'CC-BY-SA'
 # Social widget
 #SOCIAL = (('You can add links in your config file', '#'),
 #          ('Another social link', '#'),)
-
-
-
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
