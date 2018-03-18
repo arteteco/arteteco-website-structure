@@ -166,6 +166,20 @@
               </li>
             {% endif %}
             
+            
+            <!-- LANGUAGE -->
+
+{% if lang_siteurls %}
+{% for lang, url in lang_siteurls.items() %}
+<li{% if lang == DEFAULT_LANG %} class="active"{% endif %}><a href="{{ url }}/">{{ lang }}</a></li>
+{% endfor %}
+{% endif %}
+{% for title, link in MENUITEMS %}
+{% endfor %}
+
+
+<!-- /LANGUAGE -->
+            
             {% if ARCHIVES_SAVE_AS %}
               <li><a href="{{ SITEURL }}/{{ ARCHIVES_URL | default('archives.html') }}"><i class="fa fa-th-list"></i><span class="icon-label">{{ _('Archives') }}</span></a></li>
             {% endif %}
