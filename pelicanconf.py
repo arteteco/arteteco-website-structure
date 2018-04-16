@@ -50,7 +50,7 @@ SHOW_DATE_MODIFIED=True
 ### PLUGINS
 
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['i18n_subsites', 'tipue_search', 'tag_cloud','photos']
+PLUGINS = ['i18n_subsites', 'tipue_search', 'tag_cloud']
 
 # i18n_subsites
 # required by pelican-bootstrap3
@@ -75,14 +75,14 @@ TAG_CLOUD_BADGE = True
 
 # photos
 # with translation it creates double folder, waiting to fix to activate translation
-
+"""
 PHOTO_LIBRARY = "content/galleries"
 PHOTO_GALLERY = (4096, 4096, 100)
 PHOTO_ARTICLE = (768, 768, 80)
 PHOTO_THUMB = (512, 512, 60)
 PHOTO_RESIZE_JOBS = 5
 PHOTO_EXIF_COPYRIGHT = 'CC-BY-SA'
-
+"""
 
 
 # Social widget

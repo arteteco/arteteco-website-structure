@@ -249,3 +249,22 @@ figure.floatcenter, .align-center {
 .thumb {
   margin-bottom: 30px;
 }
+
+/* For use with the video-privacy-enhancer Pelican plugin */
+img.video-embed-dummy-image,
+iframe.embedded_privacy_video {
+	width: 853px;
+	max-height: 480px;
+
+	/* Center the element on the screen */
+	display: block;
+	margin-top: 2em;
+	margin-bottom: 2em;
+	margin-left: auto;
+	margin-right: auto;
+}
+iframe.embedded_privacy_video {
+	width: 843px;
+	height: 480px;
+}
+```
