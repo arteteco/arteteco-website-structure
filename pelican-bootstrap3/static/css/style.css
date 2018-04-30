@@ -267,4 +267,8 @@ iframe.embedded_privacy_video {
 	width: 843px;
 	height: 480px;
 }
+
+.contact li{
+	padding-top:2px;
+	}
 ```

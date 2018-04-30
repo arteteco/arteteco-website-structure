@@ -1,5 +1,5 @@
-Title: Articoli
+Title: Adventures
 Template:article_list
-lang:it
+lang:en
 date:23/02/2018
 fa:fa fa-pencil
