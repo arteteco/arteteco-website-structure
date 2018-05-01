@@ -11,30 +11,18 @@
 	<h2>{{ category }}</h2>
 	<hr>
 		
-
-<div class="row">
 {% for article in articles %}
-	<div class="col-sm-6 col-md-4">
-		<div class="thumbnail">
-			
-			<a class="reference external image-reference" href="../{{ article.url }} " title="{{ article.Title }}"><img alt="{{ article.title }}" src="{{ article.cover_image }}" style="width: 90%; height: auto; max-width: 100%;"></a>
-		
-		
-			<div class="caption">
-				<h3>{{ article.title }}</h3>
-				<p>{{ article.summary }}</p>
-				<p style="text-align: center;"><a class="btn btn-primary" href="../{{ article.url }}">More</a></p>
-			</div>
-		</div>
-	</div>
+<ul class="thumbnails">
+  <li class="span4">
+    <div class="thumbnail">
+      <img data-src={{ article.cover_image }} alt="{{ article.Title }}">
+      <h3>{{ article.Title }}</h3>
+	  <p>{{ article.summary }}</p>
+	  <p style="text-align: center;"><a class="btn btn-primary" href="../{{ article.url }}">More</a></p>
+    </div>
+  </li>
+  ...
+</ul>
 {% endfor %}
-</div>		
-		
-	{% endfor %}	
-		
-	
-
-      
-
 
 {% endblock %}
