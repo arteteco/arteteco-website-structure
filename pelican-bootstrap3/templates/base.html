@@ -14,11 +14,6 @@
         {% include 'includes/liquid_tags_nb_header.html' %}
     {% endif %}
     
-    <!-- JQUERY for video_privacy_enhancer plugin -->
-    
-    <script src="{{ SITEURL }}/theme/js/jquery.min.js"></script>
-    
-    <!-- /JQUERY -->
     
    <!-- MAGNIFY -->
    
@@ -150,7 +145,7 @@
                     {% for p in pages | sort(attribute=PAGES_SORT_ATTRIBUTE) %}
                         {% if p.url %}
                          <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">
-                             <i class="{{p.fa}}" style="font-size:18px"></i> {{ p.menulabel|default(p.title) }}
+                             <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/icons/{{ p.icon }}.svg" height="20" width="20"> {{ p.menulabel|default(p.title) }}
                           </a></li>
                         {% endif %}
                       {% endfor %}

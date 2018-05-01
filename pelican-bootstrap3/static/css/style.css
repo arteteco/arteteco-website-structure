@@ -271,4 +271,15 @@ iframe.embedded_privacy_video {
 .contact li{
 	padding-top:2px;
 	}
+
+.navbar-default .navbar-nav>li>a, .navbar-default .navbar-text {
+    font-size: 1.2em;
+    }
+
+.navbar-default .navbar-brand {
+    font-size:1.4em;
+    }
+
 ```
+
+
