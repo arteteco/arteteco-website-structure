@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% block content %}
+{% if page %}
+      <h1>{{ page.title }}</h1>
+      
+{{ page.content }}
+
+{% endif %}
+
+<section class="well well-sm">
+  <ul class="list-group list-group-flush">
+    {% include 'includes/sidebar/tag_cloud.html' %}
+      </ul>
+</section>
+{% if articles %}
+{% for article in (articles_page.object_list if articles_page else articles) %}
+
+
+<div class="media">
+  <a class="pull-left" href="{{ SITEURL }}/{{ article.url }}">
+    <img class="media-object" src="{{ article.cover_image }}" width=64px>
+  </a>
+  <div class="media-body">
+    <a href="{{ SITEURL }}/{{ article.url}}"><h4 class="media-heading">{{ article.title }}</h4></a>
+    {{ article.summary }}
+  </div>
+<hr>
+     {% include "includes/article_info.html" %}
+
+</div>
+        {% endfor %}
+    {% endif %}
+
+{% endblock %}
+
+
+  ...

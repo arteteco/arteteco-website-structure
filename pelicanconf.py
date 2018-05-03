@@ -46,11 +46,12 @@ DEFAULT_PAGINATION = 10
 SHOW_ARTICLE_AUTHOR=False
 SHOW_ARTICLE_CATEGORY=True
 SHOW_DATE_MODIFIED=True
+DISPLAY_ARTICLE_INFO_ON_INDEX=False
 
 ### PLUGINS
 
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['i18n_subsites', 'tipue_search', 'tag_cloud']
+PLUGINS = ['i18n_subsites', 'tipue_search', 'tag_cloud', 'series']
 
 # i18n_subsites
 # required by pelican-bootstrap3

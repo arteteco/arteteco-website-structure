@@ -6,4 +6,4 @@ Trophies
 :date: 23/02/2018
 :icon: trophy
 
-Self-awarded
+Self-awarded, mostly

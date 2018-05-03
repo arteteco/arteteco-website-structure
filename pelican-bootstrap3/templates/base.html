@@ -142,12 +142,15 @@
                     {% set PAGES_SORT_ATTRIBUTE = 'title' %}
                 {%- endif %}
                 {% if DISPLAY_PAGES_ON_MENU %}
+                
                     {% for p in pages | sort(attribute=PAGES_SORT_ATTRIBUTE) %}
+                      {% if p.icon %}  
                         {% if p.url %}
                          <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">
                              <img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/icons/{{ p.icon }}.svg" height="20" width="20"> {{ p.menulabel|default(p.title) }}
                           </a></li>
                         {% endif %}
+                       {% endif %}
                       {% endfor %}
                 {% endif %}
                 {% if DISPLAY_CATEGORIES_ON_MENU %}
