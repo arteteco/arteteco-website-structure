@@ -250,29 +250,32 @@ figure.floatcenter, .align-center {
   margin-bottom: 30px;
 }
 
-/* For use with the video-privacy-enhancer Pelican plugin */
-img.video-embed-dummy-image,
-iframe.embedded_privacy_video {
-	width: 853px;
-	max-height: 480px;
+/* general */
 
-	/* Center the element on the screen */
-	display: block;
-	margin-top: 2em;
-	margin-bottom: 2em;
-	margin-left: auto;
-	margin-right: auto;
-}
-iframe.embedded_privacy_video {
-	width: 843px;
-	height: 480px;
+.well {
+background-color:none;
+box-shadow: inset 0 0 0 3px rgba(0,0,0,.03);
 }
 
+
+/* home page */
 .contact li{
 	list-style-type:none;
 	margin-bottom:0.5em;
 	}
+	
+.center-block p {
+    text-align:center;
+    }
 
+.indexpage .well, .indexpage .img-circle {
+    margin-top: 20px;
+    }
+    
+.indexpage .entry-title {
+    text-align:center;
+    }
+/* navbar */
 .navbar-default .navbar-nav>li>a, .navbar-default .navbar-text {
     font-size: 1.2em;
     }
@@ -281,18 +284,14 @@ iframe.embedded_privacy_video {
     font-size:1.4em;
     }
 
+
+/* article and article list */
 .article_cover_image img{
 margin-right:40px;
 }
 
-.well {
-background-color:none;
-box-shadow: inset 0 0 0 3px rgba(0,0,0,.03);
-}
 
-.article_cover_image img{
-margin-right:40px;
-}
+/* trophy and trophies */
 
 .trophy_image {
 border: 1px solid #ddd;

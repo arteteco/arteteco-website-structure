@@ -51,7 +51,7 @@ DISPLAY_ARTICLE_INFO_ON_INDEX=False
 ### PLUGINS
 
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['i18n_subsites', 'tipue_search', 'tag_cloud', 'series']
+PLUGINS = ['i18n_subsites', 'tipue_search', 'tag_cloud', 'series', 'simple_footnotes']
 
 # i18n_subsites
 # required by pelican-bootstrap3

@@ -11,7 +11,7 @@ Hello world
 :series: test
 :cover_image: /images/covers/test_cover.jpg
 
-hello world! Can you see me?
+hello world! Can you see me? [ref]this is a footnote test[/ref]
 
 
 
