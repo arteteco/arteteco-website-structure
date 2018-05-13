@@ -12,10 +12,11 @@ Index
 
 
 
-Hi, I'm Manu, and I'm an **adventurer**.
 
-My main quest revolves around ecological and environmental issues, and this website is a place where I share thoughts, analysis and rants about them, but also document how I try to deal with them as a permaculture designer, gardener, herbalist, IT guy and human being. 
+I'm Manu, and I'm an **adventurer**.
 
-I have other fields of interest, such as photography, IT and writing, and I'll let them leak through from time to time. Playing around is a great source of inspiration.
+My main quest revolves around ecological and environmental issues, and this website is a diary of thoughts, analysis and rants, and where I document how I try to solve some problems as a permaculture designer, gardener, herbalist, IT guy and human being. 
 
+Even in the most technical diaries it is nice to see drying flowers, drawings and little notes here and there, so some articles may get off rail and be about photography, videomaking and more. Adventure is also inspiration, game and fun, after all.
 
+Thanks for swinging by. Really.
