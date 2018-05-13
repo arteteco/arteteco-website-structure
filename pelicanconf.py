@@ -8,7 +8,6 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Arteteco'
 SITENAME = u'Arteteco'
-SITEURL = ''
 TIMEZONE = 'Europe/Rome'
 DEFAULT_LANG = u'en'
 RELATIVE_URLS = True
@@ -23,7 +22,7 @@ AUTHOR_FEED_RSS = None
 
 ### PUBLISHING
 
-OUTPUT_RETENTION = [".git"]
+OUTPUT_RETENTION = [".git", "CNAME"]
 DELETE_OUTPUT_DIRECTORY = False
 
 
