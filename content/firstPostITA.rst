@@ -31,6 +31,8 @@ In tutta franchezza, solo un tizio di passaggio. Ho una laurea in erboristeria e
 In realtà non credo di essere un genio in nessun campo, e se scrivo scemenze sono felice di essere corretto con una mail. Certo, potete anche solo scrivermi per dirmi quanto sono bello, o per offrirmi dei soldi (noi avventurieri stiamo spesso un po' a corto) :)
 
 Questo sito
+------------
+
 Da un punto di vista tecnico: questo sito è orgogliosamente realizzato con `pelican <https://blog.getpelican.com/>`_, un generatore di siti statici in python, e utilizzo il tema `pelican-bootstrap3 <https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3>`_. In un altro articolo andrò più nel dettaglio sul lavoro dietro le quinte e le scelte di design del sito.
 
 Ora ho rotto il ghiaccio, spero andremo d'accordo in questa avventura che mi sono concesso con questo spazietto online.

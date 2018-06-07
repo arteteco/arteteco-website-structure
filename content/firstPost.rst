@@ -30,7 +30,8 @@ Frankly, I'm just a dude. I have a bachelor degree in herbalism, a permaculture 
 
 I don't pretend to know that much on any subject, and if I take some slips I am happy to be corrected, please let me know in a mail. Or just write me to tell me how handsome I am, and send me some money, why not :)
 
-!! This website
+This website
+------------
 From a technical point of view, this website is proudly done with `pelican <https://blog.getpelican.com/>`_, a python-based static website generator, with `pelican-bootstrap3 <https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3>`_ as theme, and is hosted by github pages. In another article I may go more indeep about the design choices for this website.
 
 Now, I broke the ice, hope we'll get along during my little adventure with this space
