@@ -32,7 +32,7 @@ PATH = 'content'
 STATIC_PATHS = ['images']
 LOAD_CONTENT_CACHE = False
 IMAGE_PATH='content/images/'
-PAGE_PATHS = ['pages']
+#PAGE_PATHS = ['pages']
 
 ### THEME & APPARANCE
 
@@ -60,6 +60,7 @@ JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 I18N_SUBSITES = {
     'it': {
         'SITENAME': 'Arteteco',
+        'STATIC_PATHS': ['../images']
         }
     }
 
