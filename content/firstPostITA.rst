@@ -2,8 +2,8 @@ Primo passetto
 ==============
 
 :lang: it
+:tags: meta
 :slug: firstpost
-:tag: meta
 :date: 14/05/2018
 :cover_image: /images/first.jpg
 :summary: Dove introduco il sito, me stesso e prendo confidenza con gli strumenti
