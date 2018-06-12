@@ -4,6 +4,7 @@ First step
 :lang: en
 :tags: meta
 :slug: firstpost
+:category: en
 :date: 14/05/2018
 :cover_image: /images/first.jpg
 :summary: Where I introduce myself and the website and I start to practice with the tools

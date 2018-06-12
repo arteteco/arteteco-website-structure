@@ -4,6 +4,7 @@ Introduction to Regen Network
 :lang: en
 :tags: crypto, regenerative agriculture, carbon market
 :slug: RegenNetwork
+:category: en
 :date: 20/05/2018
 :cover_image: /images/RN.jpeg
 :summary: Where I present Regen Network, what is, what does it do, and I get to some first impressions
@@ -12,7 +13,7 @@ Introduction to Regen Network
 
 
 
-One of the main causes of the environmental degradation right now is that not caring about its effect on the environemnt is a winning model for a company, especially in the agricultural field. There is a continous positive feedback, easy bureaucracy, less costs, subsidies from the state and more. Someone who wants to go for a regenerative approach, on the other hand, has to face many negative feedbacks: has to work extra hard for less money, doesn't usually get subsidies, quite the opposite and actually has to go against the law, and needs a lot of knowledge, just to start.
+One of the main causes of the environmental degradation right now is that not caring about its effect on the environment is a winning model for a company, especially in the agricultural field. There is a continous positive feedback, easy bureaucracy, less costs, subsidies from the state and more. Someone who wants to go for a regenerative approach, on the other hand, has to face many negative feedbacks: has to work extra hard for less money, doesn't usually get subsidies, quite the opposite and actually has to go against the law, and needs a lot of knowledge, just to start.
 
 I'm quite sure that pushing the feedbacks in the right direction is of paramount importance if we want to get the ecosystem on its feet.
 

@@ -4,6 +4,7 @@ Introduzione al Regen Network
 :lang: it
 :tags: crypto, agricoltura rigenerativa, carbon market
 :slug: RegenNetwork
+:category: it
 :date: 20/05/2018
 :cover_image: /images/RN.jpeg
 :summary: Dove presento il Regen Network, cosa è, cosa fa e traggo due conclusioni iniziali

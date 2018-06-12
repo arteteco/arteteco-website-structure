@@ -32,6 +32,11 @@ PATH = 'content'
 STATIC_PATHS = ['images']
 LOAD_CONTENT_CACHE = False
 IMAGE_PATH='content/images/'
+ARTICLE_URL = '{slug}/'
+ARTICLE_SAVE_AS = '{slug}/index.html'
+PAGE_URL = '{slug}/'
+PAGE_SAVE_AS = '{slug}/index.html'
+
 #PAGE_PATHS = ['pages']
 
 ### THEME & APPARANCE
