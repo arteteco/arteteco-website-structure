@@ -4,9 +4,8 @@ Introduction to Regen Network
 :lang: en
 :tags: crypto, regenerative agriculture, carbon market
 :slug: RegenNetwork
-:category: en
 :date: 20/05/2018
-:cover_image: /images/RN.jpeg
+:cover_image: RN.jpeg
 :summary: Where I present Regen Network, what is, what does it do, and I get to some first impressions
 
 
@@ -21,7 +20,7 @@ I'm quite sure that pushing the feedbacks in the right direction is of paramount
 What does Regen Network do
 --------------------------
 
-Money is usuallyh backed by something. Often by gold, sometimes money was gold, other times by petrol, or GDP. In general, though, you don't see money backed and connected to the real source of value: natural resources, water, fertility, air, life. The abstraction layers are so and such that it may be difficult to see that that is the start of all other values.
+Money is usually backed by something. Often by gold, sometimes money was gold, other times by petrol, or GDP. In general, though, you don't see money backed and connected to the real source of value: natural resources, water, fertility, air, life. The abstraction layers are so and such that it may be difficult to see that that is the start of all other values.
 
 
 Regen Network (RN) is trying to give that environmental value an economic counterpart, and to incentivize positive economical feedbacks to rigenerative companies by using a decentralized model.

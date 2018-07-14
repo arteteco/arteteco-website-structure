@@ -4,9 +4,8 @@ First step
 :lang: en
 :tags: meta
 :slug: firstpost
-:category: en
 :date: 14/05/2018
-:cover_image: /images/first.jpg
+:cover_image: first.jpg
 :summary: Where I introduce myself and the website and I start to practice with the tools
 
 In my life I created quite a few website, either for job or pleasure, but in all honesty I had some trouble in writing  my first post here.

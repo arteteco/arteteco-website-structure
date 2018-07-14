@@ -14,7 +14,8 @@ SITEURL = 'http://www.arteteco.com'
 RELATIVE_URLS = False
 OUTPUT_RETENTION = [".git", "CNAME"]
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+TRANSLATION_FEED_ATOM = 'feeds/%s.atom.xml'
+
 
 DELETE_OUTPUT_DIRECTORY = True
 

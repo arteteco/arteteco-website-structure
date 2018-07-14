@@ -4,9 +4,8 @@ Primo passetto
 :lang: it
 :tags: meta
 :slug: firstpost
-:category: it
 :date: 14/05/2018
-:cover_image: /images/first.jpg
+:cover_image: first.jpg
 :summary: Dove introduco il sito, me stesso e prendo confidenza con gli strumenti
 
 Ho creato un po' di siti internet nella mia vita, per lavoro e per piacere, ma mi sono onestamente trovato un po' in difficoltà nello scrivere il mio primo post qui.
