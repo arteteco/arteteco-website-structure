@@ -1,15 +1,10 @@
-Introduction to Regen Network
-==============================
-
-:lang: en
-:tags: crypto, regenerative agriculture, carbon market
-:slug: RegenNetwork
-:date: 20/05/2018
-:cover_image: RN.jpeg
-:summary: Where I present Regen Network, what is, what does it do, and I get to some first impressions
-
-
-
+title: Introduction to Regen Network
+lang: en
+tags: crypto, regenerative agriculture, carbon market
+slug: RegenNetwork
+date: 20/05/2018
+cover_image: RN.jpg
+summary: Where I present Regen Network, what is, what does it do, and I get to some first impressions
 
 
 One of the main causes of the environmental degradation right now is that not caring about its effect on the environment is a winning model for a company, especially in the agricultural field. There is a continous positive feedback, easy bureaucracy, less costs, subsidies from the state and more. Someone who wants to go for a regenerative approach, on the other hand, has to face many negative feedbacks: has to work extra hard for less money, doesn't usually get subsidies, quite the opposite and actually has to go against the law, and needs a lot of knowledge, just to start.
@@ -40,7 +35,7 @@ How does it do it
 
 * ''Blockchain''. Regen network will have as a decentralized database a blockchain (based on tindermint engine), which will be processed and validated by many independent nodes, garanteeing the metadata of the informations (time, place and so on), and that the informations are true, because all the nodes will have a copy of those informations (or of the hashing of the off-chain informations, but I don't want to get into technicalities)
 
-* ''Environmental State Protocols (ESP)'', practically algorithms that allow to get useful informations from the data and to quantify the effects on the environment. For example, a protocol may consider the quantity of green as seen from a satellite and the values of on-site sensors for albedo and pressure to indicate that there actually is a cover crop on that field, and how much. The implications of being able to really see what's going on on a land and to authomatically elaborate the data, without getting corruptible third parties in the middle, is one of the main strength of the project
+* ''Environmental State Protocols (ESP)'', practically algorithms that allow to get useful informations from the data and to quantify the effects on the environment. For example, a protocol may consider the quantity of green as seen from a satellite and the values of on-site sensors for albedo and pressure to indicate that there actually is a cover crop on that field, and how much. The implications of being able to really see what's going on on a land and to authomatically elaborate the data, without getting corruptible third parties in the middle, is one of the main strength of the project<img src="/images/XRNChange.jpg" class="pull-right" width="600px">
 
 * ''Smart Contracts'', called ''Ecological Conctracts'' in RN. Those are automated contracts that, starting from the informations gathered with protocols, allow to unlock the funds from a donor to who reaches the goals.
 
@@ -56,6 +51,8 @@ Examples
 * Raphael has a big land and gathers a lot of data, beside everything else, he decides to keep his data available only on purchase, as the data is his and he can do whatever he wants with it. Many big data and research companies need good quality data, and Mario gets an extra income by providing data
 
 * A comnsumer can easily look around him for farmers that work in a way that is improving the environment, and go for them as his choice
+
+
 
 Now, let's get this straight, I don't think that carbon in the atmosphere is "the" problem. Sequester carbon into the soil should be a welcomed side effect of activities that aim for an ecological restoration, not a scope in itself. I am not a meteorologist, but from what I've studied carbon is not anyway the only thing that matter in the planet temperature rising, the high altitude humidity for example may be accountable for a more pronunciated effect. 
 
@@ -75,4 +72,4 @@ I still have quite some doubts about this project. The idea is nice, and I am su
 Copyright notes
 ---------------
 
-Logo is copyrighted by Regen Network, or something
+The image in the header and the one in the article are copyrighted by Regen Network, taken from their website with permission to use given in chat

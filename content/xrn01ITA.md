@@ -1,12 +1,10 @@
-Introduzione al Regen Network
-==============================
-
-:lang: it
-:tags: crypto, agricoltura rigenerativa, carbon market
-:slug: RegenNetwork
-:date: 20/05/2018
-:cover_image: RN.jpeg
-:summary: Dove presento il Regen Network, cosa è, cosa fa e traggo due conclusioni iniziali
+title: Introduzione al Regen Network
+lang: it
+tags: crypto, agricoltura rigenerativa, carbon market
+slug: RegenNetwork
+date: 20/05/2018
+cover_image: RN.jpg
+summary: Dove presento il Regen Network, cosa è, cosa fa e traggo due conclusioni iniziali
 
 
 Una delle principali cause del degrado ambientale attuale è che per un'impresa non curarsi dei propri effetti sulla biosfera è un modello vincente, soprattutto nell'agricoltura. C'è un feedback positivo continuo, con vendite maggiori, cose più facili, con sussidi statali talvolta poco sensati, con spese inferiori, mentre un approccio rigenerativo all'agricoltura, per quanto possa essere utile nel grande ordine delle cose, incontra spesso molti feedback negativi: molto lavoro, entrate più basse, difficoltà burocratiche, e bisogno di un'enorme iniezione di conoscenze per iniziare.
@@ -34,7 +32,7 @@ Come lo fa
 
 * **Blockchain**.Regen network avrà come database decentralizzato una blockchain, validata e processata da più nodi indipendenti, garantendo i metadati delle informazioni (orario, luogo ecc.) e che le informazion in sé siano veritiere, perché tutti i nodi avranno una copia delle informazioni (o degli hashing delle informazioni conservati off-chain, ma non voglio entrare in tecnicismi)
 
-* **Environmental State Protocols (ESP)**: in pratica dei semplici algoritmi che permettono, dai dati ottenuti, di ricavare delle informazioni utili e quantificare le effettive migliorie nell'ambiente. Ad esempio, un protocollo potrebbe considerare la quantità di verde vista da satellite e i valori di sensori per pressione umidità ed albedo per indicare che in un luogo ci sia effettivamente un cover crop o meno, e quanto. Il valore di poter sapere cosa accade davvero in un terreno e poter elaborare automaticamente i dati, senza mettere in mezzo terze parti e complessi controlli suscettibili di corruzione, è il punto di forza maggiore del progetto.
+* **Environmental State Protocols (ESP)**: in pratica dei semplici algoritmi che permettono, dai dati ottenuti, di ricavare delle informazioni utili e quantificare le effettive migliorie nell'ambiente. Ad esempio, un protocollo potrebbe considerare la quantità di verde vista da satellite e i valori di sensori per pressione umidità ed albedo per indicare che in un luogo ci sia effettivamente un cover crop o meno, e quanto. Il valore di poter sapere cosa accade davvero in un terreno e poter elaborare automaticamente i dati, senza mettere in mezzo terze parti e complessi controlli suscettibili di corruzione, è il punto di forza maggiore del progetto.<img src="/images/XRNChange.jpg" class="pull-right" width="600px">
 
 * **Smart Contracts**, chiamati in RN Ecological Contracts. Questi sono i contratti automatizzati che, partendo dalle informazioni date dai protocolli, permettono di sbloccare l'accesso a dei fondi da parte di chi raggiunge gli obiettivi.
 
@@ -72,4 +70,4 @@ Ho ancora qualche dubbio su questo progetto. L'idea è buona, e sono sicuro che 
 Note sul copyright
 ------------------
 
-Il logo di Regen Network è copyright di Regen Network, credo
+L'immagine di testata e nell'articolo sono copyright di Regen Network
