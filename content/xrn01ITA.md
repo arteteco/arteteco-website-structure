@@ -60,11 +60,12 @@ Conclusioni
 
 Ho ancora qualche dubbio su questo progetto. L'idea è buona, e sono sicuro che tante altre applicazioni possono derivare a cui ancora non ho pensato, ma attenderò il webinar che ci sarà tra due giorni per trarne un'idea più solida. Intanto, fate pure un po' di compitini a casa:
 
-* `sito internet <https://www.regen.network/>`_
-* `whitepaper <http://regen-network.gitlab.io/whitepaper/WhitePaper.pdf>`_
-* `architettura <http://regen-network.gitlab.io/whitepaper/Architecture.pdf>`_
-* `protocolli <http://regen-network.gitlab.io/whitepaper/Protocols.pdf>`_
-* `stanza riot <https://riot.im/app/#/room/#regen.network:matrix.org>`_
+* [sito internet](https://www.regen.network)
+* [whitepaper](http://regen-network.gitlab.io/whitepaper/WhitePaper.pdf)
+* [architettura](http://regen-network.gitlab.io/whitepaper/Architecture.pdf)
+* [protocolli](http://regen-network.gitlab.io/whitepaper/Protocols.pdf)
+* [stanza riot](https://riot.im/app/#/room/#regen.network:matrix.org)
+* [telegram](https://t.me/regennetwork_public)
 
 
 Note sul copyright

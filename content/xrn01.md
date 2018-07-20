@@ -63,11 +63,12 @@ Conclusions
 
 I still have quite some doubts about this project. The idea is nice, and I am sure it may have many use cases that I have not foreseen, but I'll wait for the webinair in two days to get a more solid idea. Meanwhile, do your homework:
 
-* `website <https://www.regen.network/>`_
-* `whitepaper <http://regen-network.gitlab.io/whitepaper/WhitePaper.pdf>`_
-* `architecture <http://regen-network.gitlab.io/whitepaper/Architecture.pdf>`_
-* `protocols <http://regen-network.gitlab.io/whitepaper/Protocols.pdf>`_
-* `riot room <https://riot.im/app/#/room/#regen.network:matrix.org>`_
+* [website](https://www.regen.network)
+* [whitepaper](http://regen-network.gitlab.io/whitepaper/WhitePaper.pdf)
+* [architecture](http://regen-network.gitlab.io/whitepaper/Architecture.pdf)
+* [protocols](http://regen-network.gitlab.io/whitepaper/Protocols.pdf)
+* [riot room](https://riot.im/app/#/room/#regen.network:matrix.org)
+* [telegram](https://t.me/regennetwork_public)
 
 Copyright notes
 ---------------
