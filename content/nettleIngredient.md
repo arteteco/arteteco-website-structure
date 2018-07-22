@@ -2,7 +2,7 @@ title: Nettle in the kitchen
 lang: en
 tags: wikipedia, plants
 slug: cookingnettle
-date: 25/06/2018
+date: 06/25/2018
 cover_image: nettle.jpg
 summary: Where I find out that dynamic accumulators are not really a thing, how I got there and wrote in on the wikipedia page
 status: draft

@@ -1,5 +1,12 @@
 {% extends "base.html" %}
 {% block content %}
+ 
+ 
+ {% if page %}
+ 
+       <h1>{{ page.title }}<br><small>{{ page.content }}</small></h1>
+       
+       
 <div class="row">
 	<div class="col-md-8">
     {% if articles %}
@@ -44,4 +51,5 @@
 </section>
 </div>
 </div>
+{% endif %}
 {% endblock content %}

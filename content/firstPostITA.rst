@@ -4,7 +4,7 @@ Primo passetto
 :lang: it
 :tags: meta
 :slug: firstpost
-:date: 14/05/2018
+:date: 05/14/2018
 :cover_image: first.jpg
 :summary: Dove introduco il sito, me stesso e prendo confidenza con gli strumenti
 

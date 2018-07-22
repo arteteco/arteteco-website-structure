@@ -7,6 +7,3 @@ Adventures
 :date: 23/02/2018
 :icon: pencil
 
-test 
-
-

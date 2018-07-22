@@ -12,6 +12,7 @@ TIMEZONE = 'Europe/Rome'
 DEFAULT_LANG = u'en'
 RELATIVE_URLS = True
 AUTHORS_SAVE_AS = ''
+DEFAULT_DATE_FORMATS='%dd/%mm/%yyyy'
 
 # feed
 FEED_ALL_ATOM = None
@@ -24,6 +25,7 @@ AUTHOR_FEED_RSS = None
 
 OUTPUT_RETENTION = [".git", "CNAME"]
 DELETE_OUTPUT_DIRECTORY = False
+DEFAULT_CATEGORY = 'misc'
 
 
 ## PATHS
@@ -36,6 +38,7 @@ ARTICLE_URL = '{slug}/'
 ARTICLE_SAVE_AS = '{slug}/index.html'
 PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}/index.html'
+
 
 #PAGE_PATHS = ['pages']
 

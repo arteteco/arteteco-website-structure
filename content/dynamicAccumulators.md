@@ -2,7 +2,7 @@ title: Dynamic accumulators
 lang: en
 tags: wikipedia, plants
 slug: dynamicaccumulators
-date: 28/05/2018
+date: 05/28/2018
 cover_image: borage.jpg
 summary: Where I find out that dynamic accumulators are not really a thing, how I got there and wrote in on the wikipedia page
 

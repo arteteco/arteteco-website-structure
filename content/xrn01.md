@@ -2,7 +2,7 @@ title: Introduction to Regen Network
 lang: en
 tags: crypto, regenerative agriculture, carbon market
 slug: RegenNetwork
-date: 20/05/2018
+date: 05/20/2018
 cover_image: RN.jpg
 summary: Where I present Regen Network, what is, what does it do, and I get to some first impressions
 
