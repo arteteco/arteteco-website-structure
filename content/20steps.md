@@ -3,7 +3,7 @@ lang: en
 tags: permaculture design trophy
 series: 20steps
 slug: 20steps
-date: 06/01/2018
+date: 06/10/2018
 category: Gardens
 cover_image: 20steps.jpg
 summary: Where I tell the story of 20 steps, my first personal designed toy garden
@@ -15,7 +15,7 @@ The whole idea at the beginning was to **experiment** with guilds and produce so
 
 But it wasn't always like this. I mean, mosquito-wise yes, but before the place was poor with life, quite simple (read: fragile and boring), and less colorful. 
 
-Don't want to bore you with the details, I put all that stuff in this technical article. Now I just want to share some happiness for reaching version 0.1 of this garden, called 20 steps because well, that's all it takes you to get from one end of it to another.
+Don't want to bore you with the details, but I'll put some design notes in <a href="/20stepstech/">this article</a>. Now I just want to share some happiness for reaching version 0.1 of this garden, called 20 steps because well, that's all it takes you to get from one end of it to another.
 
 # The road to it..
 
@@ -27,9 +27,9 @@ There was a lot of digging, a lot of resources patiently collected in a month or
 
 Anyway, the game was finding those otherwise boring works enjoyable, so **we called for a few friends** here to work and then eat all together, made it a game with my 9 yo brother, and I entered a **friendly competition** with my neighbor who also started his veggie garden at about the same time. He produced more that year, if we ignore the fruit tree production, but his soil now sucks, while mine is a brown gold. If you ask him, of course, he produced more and my garden is a mess, so I'd say each one won its own way.
 
-
-# .. and then the results
 <div class="pull-left"><center><img src="/images/20steps/winter.jpg" width="400px"><br><em>Snow is a decent mulch too</em></center></div>
+# .. and then the results
+
 I was quite satisfied with the results. **The soil is way better now**, there is an automated irrigation system, and even though production is not at the peak yet (should get there next year), I already harvested pumpkins, corn, many cabbages, nettle, tomatoes, onions, chilly, and herbs like parsley, sage, basil, rosemary and more. Not bad, for a place that also gave me some great insights.
 
 **Other yields** are a ton of cuttings, seeds and plants that I used to guerrilla garden in the area, so I can boost production using abandoned public places for next years.

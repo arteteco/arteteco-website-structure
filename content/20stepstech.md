@@ -1,10 +1,9 @@
-title: 20 Steps: design details
+title: 20 Steps design details
 lang: en
-tags: permaculture design trophy
+tags: permaculture design
 series: 20steps
-status: draft
 slug: 20stepstech
-date: 10/06/2018
+date: 07/15/2018
 cover_image: 20stepstech.jpg
 summary: Where I write about some more technical detail of the 20 steps garden design.
 
@@ -15,7 +14,7 @@ summary: Where I write about some more technical detail of the 20 steps garden d
 
 This article wants to dive a **little bit** deeper in the technical design aspect of the 20 steps garden I've done, so that other designers can take inspiration and curious can have a better idea of how it was all done. You may find it boring, but whatever, is not all about shiny and funny bells in life!
 
-For the shiny and colorful bells you can read the introduction article HERE. 
+For the shiny and colorful bells you can read the <a href="/20steps/">introduction article</a>. 
 
 The plot is around 100 sqm, a very small garden, with some fruit trees already in place. 
 
@@ -30,18 +29,18 @@ The plot is around 100 sqm, a very small garden, with some fruit trees already i
 
 * **Soil** was compacted, quite leaked of nutrients as rain was getting soil out of the area.
 * **pH** was around neutral if somewhat basic.
-* **Trees already there** included an apricot tree (15 yrs ~), a pomegranade, 2 lemon trees which bear no fruit due to shady conditions, a female kiwi which yields no fruit 'cause no male was there and a strawberry tree. They were all in good health but left unpruned for many years.
-*  few trees in place but mainly grass blades (so called "weeds"). They did a wonderful job of keeping some roots in the soil and some flowers for the bees while no one was caring for it.
+* **Trees already there** included an apricot tree (15 yrs ~), a pomegranade, 2 lemon trees which bear no fruit due to shady conditions and were therefore replanted, a female kiwi which yields no fruit 'cause no male was there and a strawberry tree. They were all in good health but left unpruned for many years.
+*  Main herbaceous layer was grass blades (so called "weeds"). They did a wonderful job of keeping some roots in the soil and some flowers for the bees while no one was caring for it.
 * **Life in the soil** was poor, in a massive digging we only found 2-3 worms.
 * A **circular paper chromatography** revealed a decent mineral content but little life.
 
 # Sector analysis
 
 
-<img src="/images/20steps/sector.png" class="pull-left" width="400px">
+<div class="pull-left"><center><img src="/images/20steps/sector.png" width="400px"><br><em></em> </center></div>
 
-
-Not much to say, neighbors are there but are friendly, place is facing south but doesn't really matter as most of the area was in the shade anyway, due to high buildings. Not much wind.
+The biggest problem here was **water**: even just a light rain would have spilled over the garden, leaking nutrients and soil, as in the image. 
+The garden is facing south but doesn't really matter as most of the area was in the **shade** anyway, due to high buildings. You can see the shadier parts in the map. Buildings are also shielding the place from most of the **wind**.
 
 #History
 
@@ -59,52 +58,55 @@ So, before doing anything it's important to know what I was going to do with the
 
 # The actual design
 
-<img src="/images/20steps/design.png" width="600px" class="center-block">
+<div class="center-block"><img src="/images/20steps/design.png" width="600px" class="center-block"><center><em> 
+<ul style="list-style-type: none;">
+<li> Green: perennial area
+<li> Yellow: annuals
+<li> Brown: compost/mix
+<li> White: pathway
+</ul>
+</em></center></div>
 
 
-The whole area was divided into 3-4 main parts:
 
+<div class="pull-left"><center><img src="/images/20steps/pathway.jpg" width="400px"><br><em>The pathway was done just with recycled pallets</em> </center></div>
 ## Walking path
-<img src="/images/20steps/pathway.jpg" class="pull-left" width="400px">
 
-Here no plants are kept and it has been dug and some wood debris has been placed underneath, to allow water to infiltrate and create soil instead of spilling over. It has been done big enough to allow comfortable walking (hey, my grandma is 75 years old!) and for a ladder to be used, so minimum 60 cm wide. The proper social area is a bit larger.
+
+Here no plants are kept and it has been dug and some wood debris has been placed underneath, to allow water to i**nfiltrate** and **create soil** instead of spilling over. It has been done big enough to allow comfortable walking (hey, my grandma is 75 years old!) and for a ladder to be used, so minimum 60 cm wide. The proper social area is a bit larger.
 
 
 
 
 ## Perennial area
-Wouldn't call it a food forest as it is too small to actually have a forest dynamics, but that was the inspiration. Here is  where most of the perennials already were, and it hasn't been worked much. The soil was digged, mixed with some aged horse manure and then heavily mulched. Guilds were set in place from the beginning. This is the area which I'm obviously more in love with.
+Wouldn't call it a food forest as it is too small to actually have a forest dynamics, but that was the inspiration. Here is where most of the perennials already were, and it hasn't been worked much. The soil was digged, mixed with some aged horse manure and then heavily mulched. **Guilds** were set in place from the beginning.
 
-
+<div class="pull-right"><center><img src="/images/20steps/annualsyear0.jpg" width="400px"><br><em>Corn, beans and pumpkins, the famous three sisters</em> </center></div>
 ## Annual - transitional part
  
- <img src="/images/20steps/annualsyear0.jpg" class="pull-right" width="400px">
- This was the most compacted and bare area. In a corner a fire used to be made at St Antony's day, as good wish. So we choose: that is the corn-er area (ahah,got it?). It was heavily dug and big trunks of wood were buried underneath to provide a slow nutrient release, a sponge-like structure for water and an inoculation of soil microbial life (some wood was taken from a nearby forest). It is the same of a hugelkultur but, as we don't live in such a high-precipitation area, it was not raised. Here annuals for an immediate yield were planted, first year has seen many peas, beans, corn (ancient variety from north Italy), pumpkins, ancient tomatoes, and then cauliflower broccoli and so on. Mainly annual plants, and it gave some decent harvest, but now it's slowly turning into a more perennial system. I planted an almond tree, some fennel and a male kiwi to impollinate the female. The idea is to slowly turn it into a highly productive multi-storied perennial system.
+ This was the most compacted and bare area. In a corner a fire used to be made at St Antony's day, as good wish. So we choose: that is the corn-er area (ahah,got it?). It was **heavily dug** and **big trunks** of wood and horse manure were buried underneath to provide a slow nutrient release, a sponge-like structure for water and an inoculation of soil microbial life (some wood was taken from a nearby forest). It is like a hugelkultur but, as we don't live in a high-precipitation area, it was not raised. Here annuals for an immediate yield were planted, first year has seen many peas, beans, corn (ancient variety from north Italy), pumpkins, ancient tomatoes, and then cauliflower broccoli and so on. Mainly annual plants, and it gave some decent harvest, but now it's **slowly turning into a more perennial system**. I planted an almond tree, some fennel and a male kiwi to impollinate the female. The idea is to slowly turn it into a highly productive multi-storied perennial system.
 
 
  
 ##Compost area
 
-<img src="/images/20steps/compostarea.jpg" class="pull-left" width="400px">
-
-I have done a small compost area at the very entrance, which is not how you usually do it. Actually, it was more hidden before, but my grandmother and people living in the house had troubles reaching over there and was adding too much discomfort, so they were just leaving everything at the entrance. I just made it more "official".
+I have done a small compost area at the very entrance, which is not how you usually do it. Actually, it was more hidden before, but my grandmother and people living in the house were just leaving everything at the entrance. I just made it more "official". **Go with the flow**.
 
 I usually just toss the organic stuff as mulch when I'm here, anyway.
 
 
 ## Species selection
 
-The main idea was to create few guilds around the main trees: almond, hazelnut, apricot, kiwi, strawberry tree, pomegrenade and a more herbacious area. Each new perennial has been inoculated with mychorrizal fungi when planted. The guild followed simple lines, and I put an emphasys on stuff for pollinators and local insects, so borage, marigold, cornflower and nasturtium seeds have been generously thrown here and there. Also, most of the plant had to be edible, only notable exception has been russian comfrey (Symphitum officianalis var. bocking 14), which provides biomass, helps to break the soil and it's gorgeous. I'll get more into each specific guild in other articles.
+The main idea was to create **few guilds** around the main trees: almond, hazelnut, apricot, kiwi, strawberry tree, pomegrenade and a more herbacious area. Each new perennial has been inoculated with mychorrizal fungi when planted. The guild followed simple lines, and I put an **emphasys on stuff for pollinators** and local insects, so borage, marigold, cornflower and nasturtium seeds have been generously thrown here and there. Also, most of the plant had to be edible, only notable exception has been russian comfrey (Symphitum officianalis var. bocking 14), which provides biomass, helps to break the soil and it's gorgeous. I'll get maybe more into each specific guild in other articles.
 
+<img src="/images/20steps/vivaio.jpg" class="pull-left" width="400px">
 #Structures
 
-<img src="/images/20steps/vivaio.jpg" class="pull-right" width="400px">
+
 
 * In order to accomodate all plants planted I needed a greenhouse. Couple of pallets and some plastic roll, everything found in the trash, done.
  
 * Some worm casting could have been useful for the new plants, so I set up a worm composting barrel, and those guys really are my little brother favorites.
-
-
 
 
 # Phases of implementation
@@ -120,7 +122,7 @@ Soil was always covered, worked with generous aged manure, a porous tube irrigat
 ## Year 1
 
 Yields will be less than year 0: less annuals, trees will be pruned, many small plants will start to really yield in year 2. Also, some space will still be used for soil-working plants, like radishes. Less work than year 0, just planting, mulching and harvesting basically.
-
+<div class="pull-right"><center><img src="/images/20steps/underwalkway.jpg" width="400px"><br><em>Under the pathway</em> </center></div>
 ##Year 2
 
 I plan to remove the irrigation system and use it for other gardens, as the biomass should now be enough to avoid watering at all. The production will start to rise,  and the maintenance getting low. There should be little need to introduce new plants now, as the useful guys will be dispersed all around, and harvesting, adding biomass and some pruning will take most of the work.
@@ -129,10 +131,14 @@ I plan to remove the irrigation system and use it for other gardens, as the biom
 
 Should be at the peak. No work anymore beside harvesting and pruning (but we'll work at it anyway to try new plants, of course!), and the life should be thriving so hard that the walls will crumble down and let this wave of fertility invade the whole neighbourhood.
 
-# Couple more pictures
 
- 
-<img src="/images/20steps/underwalkway.jpg" width="800px" class="center-block"> <br><br>
- 
-<img src="/images/20steps/winter.jpg" width="800px" class="center-block"> 
+# Copyright notes
+
+* <a href="https://www.vexels.com/vectors/preview/143176/lemon-color-icon"> Lemon color icon </a> | designed by Vexels
+* kiwi icon by https://icons8.com/
+* pomegranade icon by https://www.shareicon.net/author/alex-t
+* apricot icon by https://icons8.com/icon/45429/apricot
+* Wave GIMP brush: <a rel="nofollow" href="https://www.brusheezy.com">Photoshop Brushes by Brusheezy</a>
+
+
  
