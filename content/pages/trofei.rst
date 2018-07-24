@@ -5,7 +5,7 @@ Trofei
 :lang: it
 :date: 23/02/2018
 
-:icon: trophy (mettila nei metadata quando la rivuoi in navbar)
+icon: trophy (mettila nei metadata quando la rivuoi in navbar)
 
 
 Queste sono le avventure di cui sono più fiero e che vorrei mettere in mostra.

@@ -44,7 +44,7 @@ One of the best results is that some friend got excited by it and I've helped do
 
 Yeah well, I've done some disturbingly silly things in here. <div class="pull-right"><center><img src="/images/20steps/mulch.jpg" width="400px"><br><em>A proper organic mulch looks so great!</em> </center></div>
 
-* From the pictures you may see **how shady everything is**: and I've pruned already this year! I decided to plant an hazelnut in the deep shade, shading everything even more. Yes I did. I had big plants of getting it to go towards the root and all, but I'm now waiting for the autumn to remove it and use it to guerrilla garden.
+* From the pictures you may see **how shady everything is**: and I've pruned already this year! I decided to plant an hazelnut in the deep shade, shading everything even more. Yes I did. I had big plans of getting it to go towards the roof and all, but I'm now waiting for the autumn to remove it and use it to guerrilla garden.
 
 * **I often lose what I plant**. I don't know how that happens. I lost the cucumber plants at one point last year, only to find a ripe cucumber a few months later. The other cucumbers just disappeared.
 
