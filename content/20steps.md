@@ -1,6 +1,6 @@
 title: 20 Steps: a gentle introduction
 lang: en
-tags: permaculture design trophy
+tags: permaculture, design
 series: 20steps
 slug: 20steps
 date: 06/10/2018

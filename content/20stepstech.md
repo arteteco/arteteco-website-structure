@@ -1,6 +1,6 @@
 title: 20 Steps design details
 lang: en
-tags: permaculture design
+tags: permaculture, design
 series: 20steps
 slug: 20stepstech
 date: 07/15/2018
