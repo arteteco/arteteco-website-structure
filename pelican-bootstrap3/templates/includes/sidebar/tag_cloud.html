@@ -3,6 +3,8 @@
 {% endif -%}
 
 {% if 'tag_cloud' in PLUGINS and DISPLAY_TAGS_ON_SIDEBAR %}
+    <section class="well well-sm">
+  <ul class="list-group list-group-flush">
   {% from 'includes/sidebar/macros.jinja' import title %}
   {% if DISPLAY_TAGS_INLINE %}
     {% set tags = tag_cloud | sort(attribute='0') %}
@@ -23,5 +25,7 @@
     {% endfor %}
   </ul>
 </li>
+</ul>
+</section>
 <!-- End Sidebar/Tag Cloud -->
 {% endif %}

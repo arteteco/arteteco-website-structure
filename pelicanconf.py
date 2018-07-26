@@ -82,6 +82,7 @@ DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'search')
 TAG_CLOUD_STEPS = 1
 TAG_CLOUD_SORTING = 'alphabetically'
 TAG_CLOUD_BADGE = True
+DISPLAY_TAGS_ON_SIDEBAR=False
 
 # photos
 # with translation it creates double folder, waiting to fix to activate translation
