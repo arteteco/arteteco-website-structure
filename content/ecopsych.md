@@ -32,13 +32,13 @@ It is focused around 6 questions, which seems quite spot on. In this article I'l
 
 This is crucial: **if people don't feel a risk they are unlikely to act.**
 
-As I said, we are not evolved to perceive all problems. Immediate, sure, controllable risks have the highest priority.
+As I said, we are not evolved to perceive all problems. Immediate, sure, controllable risks have the highest priority. What else?
 
 
 * **Climate change is not something you really experience individually**. You may experience bad weather, but climate is a statistical model and the task of understanding it lies more in the hand of specialists. This requires an analytical processing of data, which we are not evolved to prioritize against associative processing. The feeling of risk is, well, a feeling, and raw data doesn't punch you in the guts as the need of something right now and when the two system disagree the affective, association based system usually prevails. Cutting consumption now to avoid a further risk in a distant future doesn't fit in most people and may even generate positions of denial.
 * **Small probability events are underestimated**. Statistically a lot of people crash in cars, but when they drive they often ignore those risks
 * **The cost of mitigation is often too high**. In contrast with economic analysts who typically have specific algorithms to discount  future and distant costs, people often apply sharp discounts to distant costs an benefits. Getting a damage now for a return in 6 years is not impactful, just think of a 50 years benefit. In the current economic system, with a very quick turnover, is unthinkable.
-* **Global environmental systems are perceived as beyond the control of individuals**. Is very difficult to_ feel_ how not eating a steak today can save a species far away, even though you may understand that it does so
+* **Global environmental systems are perceived as beyond the control of individuals**. Is very difficult to _feel_ how not eating a steak today can save a species far away, even though you may understand that it does so
 * I found very interesting how **risk perception is similar to quitting the smoking habit**, in some ways. Is a distant benefit for an immediate suffering, a probability game, and more (of course, it's not the same thing and is just an analogy for some parts)
 
 <div class="pull-left"><center><img src="/images/ecopsych/smoking.jpg" width="400px"><br><em>Smoking is actually good for the environment: it kills humans</em></center></div>
@@ -49,7 +49,8 @@ As I said, we are not evolved to perceive all problems. Immediate, sure, control
 For example. Trump supporters usually don't. 
 
 If we can make the environmental idea endemic to as much cultural groups as possible, we can get leverage that group spreading.
-**For example**: If I get my book reading club to organize dinners with food bought on regenerative agriculture, and collect small donations to send to ecological restoration projects, I have a positive impact. If the book club grows so will the beneficial impact of it. And you can do that with all the groups, clubs, whatever surrounds you.
+
+**For example**: If I get my book reading club to organize dinners with food bought on regenerative agriculture, and collect small donations to send to ecological restoration projects, I have a positive impact. If the book club grows so will the beneficial impact of it, without any further work needed, as the benefits are now bundles in that community.
 
 You can think of it as a _meme_ into the meme pool, and if I can keep the genetic comparison, making it a _memetic linkage_ to other characteristics
 
@@ -58,7 +59,7 @@ You can think of it as a _meme_ into the meme pool, and if I can keep the geneti
 
 
 
-This is the kind of thing that you often can't talk with people, being the **ethical and moral equivalent of a minefield**: birth control, consumption limitation, blocking/modulating third world development, don't get that pet. I guess that is why the third principle of permaculture got _sweetened out_ during the years from _Set limits to population and consumption_ to _fair share_
+This is the kind of thing that you often can't talk with people, being the **ethical and moral equivalent of a minefield**: birth control, consumption limitation, blocking/modulating third world development, don't get that pet. I guess that is why the third principle of permaculture got sweetened out during the years from _Set limits to population and consumption_ to _fair share_
 
 ## Population and impact
 
@@ -98,8 +99,6 @@ Some **working notes** anyhow:
 * There is a lot of politically correctness in the matter of personal beliefs. I understand the politeness and not wanting to hurt others, but try to break taboos and have a genuine talk with others about their decisions.
 * Don't stop at the surface. If someone brags about how they got a fairphone 'cause is more ecological, ask what was wrong with the old one. 
 * Think deeply about how much something is environmentally good. Think of how it was produced, how much resources it uses and how it's going to be disposed of. Dish-washers use less water? No, they don't, if you take in account the water used for production, for electricity and for disposal.
-* Question everything.
-
 
 # Copyright notes
 
