@@ -5,7 +5,7 @@ series: psychology of climate change
 slug: ecopsych02
 date: 08/03/2018
 cover_image: ecopsych02.jpg
-summary: Where I try to answet what are the psychological impacts of climate change and how do people cope with it
+summary: Where I lookfor answer for what are the psychological impacts of climate change and how do people cope with it
 
 <div class="alert alert-warning">
 <strong>DISCLAIMER</strong>: I am not a psychologist. I am just a curious guy, and while I'd like to share what I discovered around, I also write my opinions and I may interpret things wrong. 
@@ -69,7 +69,7 @@ Well, kinda. **Grouping together, helping victims of catastrophes, working for a
 
 This questions are getting all quite alike, and are leading more or less to the same results. What this questions means: beside the perception of the risk, beside why and how they contribute and are affected(passively) by climate change, **what do people do in response?**
 
-The question is difficult being climate change an abstract entity, while the stressors take many different shapes. Chronic stressors can go unnoticed and be like a background noise that does not provoke any reaction (take air pollution for example). 
+Answering is difficult being climate change an abstract entity, while the stressors take many different shapes. Chronic stressors can go unnoticed and be like a background noise that does not provoke any reaction (take air pollution for example). 
 
 ## Threat and coping appraisal
 
