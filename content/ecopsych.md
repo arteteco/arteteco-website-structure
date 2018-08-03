@@ -1,6 +1,6 @@
 title: Psychology of climate change pt.1
 lang: en
-tags: climate change
+tags: climate change, psychology
 series: psychology of climate change
 slug: ecopsych
 date: 08/01/2018
