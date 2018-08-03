@@ -5,7 +5,7 @@ series: psychology of climate change
 slug: ecopsych02
 date: 08/03/2018
 cover_image: ecopsych02.jpg
-summary: Where I lookfor answer for what are the psychological impacts of climate change and how do people cope with it
+summary: Where I look at more questions: what are the psychological impacts of climate change? How do people cope with it
 
 <div class="alert alert-warning">
 <strong>DISCLAIMER</strong>: I am not a psychologist. I am just a curious guy, and while I'd like to share what I discovered around, I also write my opinions and I may interpret things wrong. 
