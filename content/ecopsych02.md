@@ -42,11 +42,11 @@ I've already talked about it in the first part of this series, and this is kind 
 
 Let's be clear on this: **people don't react to climate change itself**, they react to the information passed by, mostly by media. So let's see how to better spread the guilt here.
 
-  Well-meaning attempts to create urgency about climate change [...] frequently lead to the exact opposite  of the desired response: denial, paralysis, apathy, or actions that can create greater risks than the one being mitigated.
+ > Well-meaning attempts to create urgency about climate change [...] frequently lead to the exact opposite  of the desired response: denial, paralysis, apathy, or actions that can create greater risks than the one being mitigated.
 
-I get this, frankly. The problem is overwhelming, and no one likes to feel guilty of shameful about his lifestyle. **This apathy prevents individuals from learning more about the thread and to get an informed opinion**. The defense mechanisms includes the infamous _splitting_ (when you know it but divest it of emotional meaning), and numbness.
+I get this, frankly. The problem is overwhelming, and no one likes to feel guilty of shameful about his lifestyle. **This apathy prevents individuals from learning more about the threat and to get an informed opinion**. The defense mechanisms includes the infamous _splitting_ (when you know it but divest it of emotional meaning), and numbness.
 
-Another interesting effect I found was about the sensible people. Is not like everyone is in denial, some people feel differently, **but there are barriers to their expression**, such as the fear of being seen as unpatriotic, of conflict with the group, morbid or uninformed (seems like no one can talk about climate change unless he is a scientist. **Talk about your feelings people!**)
+Another interesting effect I found was about the sensible people. Is not like everyone is in denial, some people feel differently, **but there are barriers to their expression**, such as the fear of being seen as unpatriotic, morbid or uninformed (seems like no one can talk about climate change unless he is a scientist. **Talk about your feelings people!**)
 
 
 ## Any good in this?
